@@ -1,0 +1,38 @@
+h3{
+    padding: 10px;
+    margin-bottom: -8px;
+    cursor: pointer;
+}
+
+.navbar{
+    background-color:lightslategrey;
+    margin-top: -10px;
+}
+
+/* .nav-link.active{
+    background-color: darkslategray;
+} */
+
+/* .nav-pills{
+    background-color: darkslategray;
+} */
+
+body {
+    position: relative;
+    background-color:lightgray;
+}
+
+@media screen and (max-width: 991.98px) {
+    .wrap {
+      width: 90%;
+      margin: auto;
+    }
+  
+  
+    /* .mycondlink,
+    .mylink {
+      display: inline;
+      padding: 15px;
+    } */
+  
+  }
