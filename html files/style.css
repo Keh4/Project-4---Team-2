@@ -19,7 +19,16 @@ h3{
 
 body {
     position: relative;
+    background: lightgray url("/images/skyline.jpeg") center;
     background-color:lightgray;
+}
+
+img{
+    padding-top: 20px;
+}
+
+h4,.text{
+    padding: 20px;
 }
 
 @media screen and (max-width: 991.98px) {
