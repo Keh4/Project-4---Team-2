@@ -21,6 +21,10 @@ body {
     position: relative;
     background: lightgray url("/images/skyline.jpeg") center;
     background-color:lightgray;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1900px;
+
 }
 
 img{
