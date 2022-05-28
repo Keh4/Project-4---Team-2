@@ -11,14 +11,15 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     height: 85vh;
+    /* opacity: .5; */
 }
 
 
-#header{
-    color: red;
+#header h5{
+    color: red!important;
 }
 
-#rush-hour{
+#rush-hour {
     background-color: red;
 }
 
@@ -150,4 +151,3 @@ body{
 .container{
 	max-width: 1200px;
 	margin:auto;{}
-    
