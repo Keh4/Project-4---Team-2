@@ -14,12 +14,12 @@ html{
 }
 
 
-.header-title{
-    color: aqua;
+#header{
+    color: red;
 }
 
-h3 > span, .icon > .fa{
-    color: coral;
+#rush-hour{
+    background-color: red;
 }
 
 .overlay-box{
