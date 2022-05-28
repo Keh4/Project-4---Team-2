@@ -13,6 +13,11 @@ html{
     height: 85vh;
 }
 
+
+.header-title{
+    color: aqua;
+}
+
 h3 > span, .icon > .fa{
     color: coral;
 }
