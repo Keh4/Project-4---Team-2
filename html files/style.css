@@ -28,7 +28,13 @@ h4, .text{
 }
 
 h5{
-    padding-right: 40px;
+    text-align:unset;
+    padding-top: -15px;
+}
+
+.text1 {
+    padding-left: 20px;
+    font-style: italic;
 }
 
 @media screen and (max-width: 991.98px) {
